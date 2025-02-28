@@ -18,3 +18,6 @@ Ce projet vise à développer un modèle avancé de risque de crédit. Ce modèl
 2°) Frontend : Streamlit (interface utilisateur)
 
 3°) Machine Learning : Modélisation de risque de crédit, scorecard
+
+
+
