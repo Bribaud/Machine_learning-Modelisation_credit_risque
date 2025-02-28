@@ -19,5 +19,8 @@ Ce projet vise à développer un modèle avancé de risque de crédit. Ce modèl
 
 3°) Machine Learning : Modélisation de risque de crédit, scorecard
 
+## Image de l'interface
+
+![Logo du projet](artifacts/im1.png)
 
 
