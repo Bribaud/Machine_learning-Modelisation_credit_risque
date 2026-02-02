@@ -93,5 +93,5 @@ elif page == "🔎 Résultats":
 # Footer
 st.sidebar.markdown("""
 ---
-© 2025 - Analyse du Risque de Crédit
+© 2026 - Analyse du Risque de Crédit
 """)
